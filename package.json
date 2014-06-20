@@ -1,0 +1,28 @@
+{
+  "name": "thot-harmony",
+  "version": "0.1.0",
+  "description": "Enforce harmony support on your entry points to ensure generator support",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp && node ./specs/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thotjs/thot-harmony.git"
+  },
+  "keywords": [
+    "Harmony",
+    "generators"
+  ],
+  "author": "Joshwa Fugett <jfugett@thotjs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thotjs/thot-harmony/issues"
+  },
+  "homepage": "https://github.com/thotjs/thot-harmony",
+  "devDependencies": {
+    "gulp": "^3.8.1",
+    "gulp-jshint": "^1.6.3",
+    "jshint-stylish": "^0.2.0"
+  }
+}
