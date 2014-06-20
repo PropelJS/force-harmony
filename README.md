@@ -3,6 +3,11 @@ thot-harmony
 
 Node Harmony Enforcement for your scripts entry points
 
+[![Build Status](https://travis-ci.org/thotjs/thot-harmony.svg)](https://travis-ci.org/thotjs/thot-harmony)
+[![Dependency Status](https://david-dm.org/thotjs/thot-harmony.svg)](https://david-dm.org/thotjs/thot-harmony)
+[![devDependency Status](https://david-dm.org/thotjs/thot-harmony/dev-status.svg)](https://david-dm.org/thotjs/thot-harmony#info=devDependencies)
+[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges)
+
 Usage
 --------
 require('thot-harmony')();
