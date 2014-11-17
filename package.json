@@ -1,6 +1,6 @@
 {
-  "name": "thot-harmony",
-  "version": "0.1.0",
+  "name": "force-harmony",
+  "version": "1.0.0",
   "description": "Enforce harmony support on your entry points to ensure generator support",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/thotjs/thot-harmony/issues"
   },
-  "homepage": "https://github.com/thotjs/thot-harmony",
   "devDependencies": {
     "gulp": "^3.8.1",
     "gulp-jshint": "^1.6.3",
